@@ -85,12 +85,10 @@
 		$("#chatNoticeDetail").addClass("hidden");
 		});
 	$("#chatUserList").click(function() {
-		console.log("채팅방 view");
 		$("#chattingRoomIn").removeClass("hidden");
 		$("#chattingList").addClass("hidden");
 	});
 	$("#chatBackBtn").click(function() {
-		console.log("백 버튼");
 		$("#chattingList").removeClass("hidden");
 		$("#chattingRoomIn").addClass("hidden");
 		});
@@ -189,8 +187,6 @@
 			type: "POST",
 			data : {issueIdx : issueidx},
 			success : function(data) {
-				console.log('!!!!!!!!!!!!!!!!!');
-				console.log(data);
 				let labelname = '<span class="badgeIcon float-left" style="background-color: '+data.labelColor+'">'+data.labelName+'</span>';
 				let files = "  ";
 				

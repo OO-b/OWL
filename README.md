@@ -47,22 +47,22 @@
 ![image](https://user-images.githubusercontent.com/54265610/128625483-f69e0dd7-ebe1-4661-ba91-15e2d31aa084.png)
 <br><br>
 
-**1) 회원가입 / 로그인**
+**`1) 회원가입 / 로그인`**
 - Naver, Kakao, Google 로그인 API를 연동하여 로그인 및 회원가입
 - 정규표현식에 의해 유효성을 체크
 - Velocity Template  을 이용해 인증 메일을 발송
 <br>
 
-**2) 대시보드**
+**`2) 대시보드`**
 - Chart.js를 통해 프로젝트 진행률 및 현재 상황 한눈에 확인가능
 <br>
 
-**3) 캘린더**
+**`3) 캘린더`**
 - Toast-Calendar을 이용해 일정을 추가, 수정, 삭제 / Drag & Drop으로 일정관리
 - 참여중인 프로젝트 및 개인 일정 관리 및 확인 
 <br>
 
-**4) 칸반보드**
+**`4) 칸반보드`**
 - Jquery-ui의 Sortable을 이용해 Drag & Drop으로 편리하게 칼럼 이동가능
 - 목록보기는 칸반보드 및 리스트 형태로 선택가능 
 - 리스트 형식은 DataTables 사용 
@@ -70,18 +70,18 @@
 - jQuery.textcomplete를 사용하여 @로 멤버 언급 가능
 <br>
 
-**5) 드라이브**
+**`5) 드라이브`**
 - jQuery-ui context-menu를 사용하여 파일 다운로드, 이름 변경, 삭제 가능
 - Jstree를 이용하여 트리형식으로 폴더 구조 작성
 - jQuery-fileupload를 이용하여 파일 업로드시 Drag & Drop으로 파일 처리 가능
 <br>
 
-**6) 채팅**
+**`6) 채팅`**
 - Firebase를 사용하여 실시간으로 1:1 채팅, 그룹채팅 가능
 - Emoji-Picker를 이용해 채팅 시 이모티콘 활용
 <br>
 
-**7) 커스터마이징**
+**`7) 커스터마이징`**
 - 다양한 글꼴 지원 및 Light, Dark 테마 변경 가능
 
 

@@ -1,6 +1,7 @@
 ![image](https://user-images.githubusercontent.com/54265610/128623405-78f90fb2-b142-4f50-b3e2-51f0796ff96c.png)
 
-1. OWL 
+1. 프로젝트 명 : OWL 
+<hr>
   1. 효과적인 팀워크와 가벼워진 업무를 이끌어내는 공간 OWL은 효율적인 협업을 이끌어내는 협업 툴입니다.
      전체 프로젝트의 흐름과 개인 업무 진행도를 한 눈에 파악하기 쉬운 DashBoard, 
      체계적인 스케쥴 관리에 탁월한 Calendar, 업무 흐름 제어와 히스토리 관리에 용이한 Kanban Board, 

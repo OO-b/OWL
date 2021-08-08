@@ -1,4 +1,5 @@
-<br><br>
+<br>
+
 # ✨About The Project 'OWL'
 
 
@@ -20,7 +21,7 @@
 
 
 ![image](https://user-images.githubusercontent.com/54265610/128623646-efb3840c-832c-47eb-b2ed-76b897670727.png)
-<br><br><br>
+<br><br><br><br>
 
 ### 🔸 개요
 
@@ -28,11 +29,12 @@
 - OS			: 	Windows 8<br>
 - JDK : JAVA SE 1.8<br>
 - WAS : Apache Tomcat 9.0<br>
-- Database : MySQL, Firebase<br>
-- 사용기술 <br>
-![image](https://user-images.githubusercontent.com/54265610/128623849-9ed82d7f-7d2b-4848-85fe-37d1c0bcfb9a.png)
+- Database : MySQL, Firebase
 <br><br><br><br>
 
+### 🔸 사용기술
+![image](https://user-images.githubusercontent.com/54265610/128626597-30e4562b-42b5-42fc-bb0d-90d7dcb74e29.png)
+<br><br><br><br>
 
 ### 🔸 ERD
 ![image](https://user-images.githubusercontent.com/54265610/128623893-48306166-0fe0-4235-aa2b-8442e49d59ab.png)

@@ -5,8 +5,7 @@
 ![image](https://user-images.githubusercontent.com/54265610/128624327-e68f4b39-7af6-4f3d-8656-f2574eeb1e04.png)
 <br>
 
-⏩시연영상 
-https://www.youtube.com/watch?v=qLLegGbU01A&t=12s
+⏩[Our Work Leader 시연영상 보러가기](https://www.youtube.com/watch?v=qLLegGbU01A&t=12s) 
 <br><br><br><br><br>
 
 ## 1. 프로젝트 소개
